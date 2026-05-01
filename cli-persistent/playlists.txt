@@ -1,0 +1,15 @@
+2
+First Playlist
+3.14 3
+Song 1
+Artist
+Song 2
+Artist
+Song 3
+Artist
+another playlist
+4.99 2
+First song
+Singer
+Another song
+Singer
