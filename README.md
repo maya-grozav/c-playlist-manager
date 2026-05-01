@@ -1,6 +1,6 @@
 # C Playlist Management Suite
 
-This repository contains two distinct implementations of a C-based playlist management tool. The project explores different paradigms of command-line application design: an argument-driven utility with persistent storage, and an interactive Text User Interface (TUI) with real-time keystroke navigation.
+This repository contains two distinct implementations of a C-based playlist management tool. The project explores different paradigms of command-line application design: an argument-driven utility with persistent storage, and an interactive Text User Interface (TUI) with real-time keystroke navigation. This project was developed between March and May 2025 as a university coursework project.
 
 ## Project Structure
 
